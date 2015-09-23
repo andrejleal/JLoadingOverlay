@@ -4,4 +4,4 @@ Authors: André Leal & Pedro Sombreireiro
 
 JQuery plugin to show an animated overlay
 
-jsFiddle sample: https://jsfiddle.net/ztz8xzhq/
+jsFiddle sample: http://jsfiddle.net/yms8sr0y/
